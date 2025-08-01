@@ -7,7 +7,8 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3.x-lightgrey.svg)](https://www.sqlite.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> An intelligent journaling application that uses machine learning to analyze emotions and provide personalized mental health recommendations for high school students.
+> An AI-powered mental health application that helps public high school students (those served by the DOE) build emotinal resilience through interactive features. 
+
 
 ## 🎥 Demo Videos
 
@@ -16,23 +17,21 @@
     <tr>
       <td align="center">
         <strong>Interactive App Demo</strong><br/>
-        <video width="400" controls>
-          <source src="Presentation%20Files/app-interactive-figma.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
+        <a href="Presentation%20Files/app-interactive-figma.mp4">
+          <img src="https://img.shields.io/badge/📱%20Interactive%20Demo-Watch%20App%20Demo-blue?style=for-the-badge&logo=figma" alt="Interactive App Demo" width="300"/>
+        </a>
       </td>
       <td align="center">
         <strong>Live Demo Video</strong><br/>
-        <video width="400" controls>
-          <source src="Presentation%20Files/Demo%20Video.mov" type="video/quicktime">
-          Your browser does not support the video tag.
-        </video>
+        <a href="Presentation%20Files/Demo%20Video.mov">
+          <img src="https://img.shields.io/badge/🎬%20Live%20Demo-Watch%20Presentation-red?style=for-the-badge&logo=youtube" alt="Live Demo Video" width="300"/>
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
-*Click on either video to play the interactive demonstration or watch the live demo presentation*
+*Click on either badge to watch the videos directly*
 
 ## 🏆 About the Competition
 
