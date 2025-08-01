@@ -9,9 +9,30 @@
 
 > An intelligent journaling application that uses machine learning to analyze emotions and provide personalized mental health recommendations for high school students.
 
-## 🎥 Demo Video
+## 🎥 Demo Videos
 
-[![Demo Video](https://img.shields.io/badge/Watch%20Demo%20Video-Play%20▶️-red)](Presentation%20Files/Demo%20Video.mov)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Interactive App Demo</strong><br/>
+        <video width="400" controls>
+          <source src="Presentation%20Files/app-interactive-figma.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td align="center">
+        <strong>Live Demo Video</strong><br/>
+        <video width="400" controls>
+          <source src="Presentation%20Files/Demo%20Video.mov" type="video/quicktime">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</div>
+
+*Click on either video to play the interactive demonstration or watch the live demo presentation*
 
 ## 🏆 About the Competition
 
